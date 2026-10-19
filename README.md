@@ -18,10 +18,10 @@ This is a simple Android application developed using Android Studio and Kotlin. 
 
 ## 📸 Screenshots
 ### Main Activity
-![Main Activity](Screenshot/Main Activity.jpeg)
+![Main Activity](Screenshot/Main%20Activity.jpeg)
 
 ### Second Activity
-![Second Activity](Screenshot/Second Activity.jpeg)
+![Second Activity](Screenshot/Second%20Activity.jpeg)
 
 ## 🚀 How to Run
 
